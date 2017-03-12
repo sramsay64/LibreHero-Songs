@@ -161,6 +161,226 @@ songData: {
 			pitch: 4
 			time: 23.312803
 		}
+
+
+
+
+		{
+			pitch: 2
+			time: 24.589895
+		}
+		{
+			pitch: 1
+			time: 24.682774
+		}
+		{
+			pitch: 2
+			time: 24.914972
+		}
+		{
+			pitch: 1
+			time: 25.07751
+		}
+		{
+			pitch: 2
+			time: 25.28649
+		}
+		{
+			pitch: 2
+			time: 25.47225
+		}
+		{
+			pitch: 1
+			time: 25.681229
+		}
+		{
+			pitch: 2
+			time: 26.006306
+		}
+		{
+			pitch: 3
+			time: 26.192064
+		}
+		{
+			pitch: 1
+			time: 26.540361
+		}
+		{
+			pitch: 4
+			time: 26.819
+		}
+		{
+			pitch: 3
+			time: 26.958319
+		}
+		{
+			pitch: 3
+			time: 27.538816
+		}
+		{
+			pitch: 2
+			time: 27.747795
+		}
+		{
+			pitch: 1
+			time: 28.096092
+		}
+		{
+			pitch: 2
+			time: 28.25863
+		}
+		{
+			pitch: 3
+			time: 28.44439
+		}
+		{
+			pitch: 1
+			time: 28.630148
+		}
+		{
+			pitch: 3
+			time: 29.001667
+		}
+		{
+			pitch: 2
+			time: 29.164206
+		}
+		{
+			pitch: 1
+			time: 29.512503
+		}
+		{
+			pitch: 3
+			time: 29.744701
+		}
+		{
+			pitch: 1
+			time: 29.95368
+		}
+		{
+			pitch: 4
+			time: 30.905695
+		}
+		{
+			pitch: 2
+			time: 30.905695
+		}
+		{
+			pitch: 1
+			time: 31.230772
+		}
+		{
+			pitch: 3
+			time: 31.300432
+		}
+		{
+			pitch: 4
+			time: 31.46297
+		}
+		{
+			pitch: 2
+			time: 31.48619
+		}
+		{
+			pitch: 1
+			time: 32.345325
+		}
+		{
+			pitch: 3
+			time: 32.345325
+		}
+		{
+			pitch: 2
+			time: 32.577526
+		}
+		{
+			pitch: 0
+			time: 32.623966
+		}
+		{
+			pitch: 4
+			time: 33.43667
+		}
+		{
+			pitch: 2
+			time: 33.45989
+		}
+		{
+			pitch: 1
+			time: 33.80819
+		}
+		{
+			pitch: 3
+			time: 33.80819
+		}
+		{
+			pitch: 2
+			time: 34.13327
+		}
+		{
+			pitch: 0
+			time: 34.20293
+		}
+		{
+			pitch: 1
+			time: 34.36547
+		}
+		{
+			pitch: 0
+			time: 34.55123
+		}
+		{
+			pitch: 2
+			time: 34.55123
+		}
+		{
+			pitch: 0
+			time: 34.64411
+		}
+		{
+			pitch: 1
+			time: 35.317493
+		}
+		{
+			pitch: 0
+			time: 35.503254
+		}
+		{
+			pitch: 2
+			time: 36.478497
+		}
+		{
+			pitch: 4
+			time: 36.478497
+		}
+		{
+			pitch: 1
+			time: 36.641037
+		}
+		{
+			pitch: 3
+			time: 36.896458
+		}
+		{
+			pitch: 2
+			time: 37.10544
+		}
+		{
+			pitch: 1
+			time: 37.26798
+		}
+		{
+			pitch: 3
+			time: 37.43052
+		}
+		{
+			pitch: 1
+			time: 37.61628
+		}
+		{
+			pitch: 2
+			time: 37.73238
+		}
 ]
 	bars: []
 	keys: [
@@ -170,7 +390,7 @@ songData: {
 		f
 		g
 	]
-	tempo: 240
+	tempo: 60
 }
 startTime: 0
 duration: 249

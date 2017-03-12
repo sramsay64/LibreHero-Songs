@@ -1,0 +1,182 @@
+{
+songData: {
+	notes: [
+		{
+			pitch: 1
+			time: 0.0
+		}
+		{
+			pitch: 2
+			time: 0.81269836
+		}
+		{
+			pitch: 1
+			time: 1.3699772
+		}
+		{
+			pitch: 2
+			time: 1.8808163
+		}
+		{
+			pitch: 2
+			time: 2.2987754
+		}
+		{
+			pitch: 1
+			time: 3.041814
+		}
+		{
+			pitch: 2
+			time: 3.8545125
+		}
+		{
+			pitch: 1
+			time: 4.4350114
+		}
+		{
+			pitch: 2
+			time: 4.8994102
+		}
+		{
+			pitch: 2
+			time: 5.3173695
+		}
+		{
+			pitch: 1
+			time: 6.130068
+		}
+		{
+			pitch: 3
+			time: 6.7802267
+		}
+		{
+			pitch: 1
+			time: 7.4071655
+		}
+		{
+			pitch: 3
+			time: 7.8019047
+		}
+		{
+			pitch: 3
+			time: 8.312743
+		}
+		{
+			pitch: 1
+			time: 9.079002
+		}
+		{
+			pitch: 4
+			time: 9.7988205
+		}
+		{
+			pitch: 1
+			time: 10.30966
+		}
+		{
+			pitch: 4
+			time: 10.797278
+		}
+		{
+			pitch: 4
+			time: 11.215238
+		}
+		{
+			pitch: 1
+			time: 12.051156
+		}
+		{
+			pitch: 2
+			time: 12.817415
+		}
+		{
+			pitch: 1
+			time: 13.351474
+		}
+		{
+			pitch: 2
+			time: 13.9319725
+		}
+		{
+			pitch: 2
+			time: 14.303493
+		}
+		{
+			pitch: 1
+			time: 15.116191
+		}
+		{
+			pitch: 2
+			time: 15.812789
+		}
+		{
+			pitch: 1
+			time: 16.439728
+		}
+		{
+			pitch: 2
+			time: 16.857685
+		}
+		{
+			pitch: 2
+			time: 17.41496
+		}
+		{
+			pitch: 1
+			time: 18.065117
+		}
+		{
+			pitch: 3
+			time: 18.715273
+		}
+		{
+			pitch: 1
+			time: 19.318989
+		}
+		{
+			pitch: 3
+			time: 19.853045
+		}
+		{
+			pitch: 3
+			time: 20.271002
+		}
+		{
+			pitch: 1
+			time: 21.083698
+		}
+		{
+			pitch: 4
+			time: 21.849953
+		}
+		{
+			pitch: 1
+			time: 22.430449
+		}
+		{
+			pitch: 4
+			time: 22.918066
+		}
+		{
+			pitch: 4
+			time: 23.312803
+		}
+]
+	bars: []
+	keys: [
+		a
+		s
+		d
+		f
+		g
+	]
+	tempo: 240
+}
+startTime: 0
+duration: 249
+audioData: {
+	method: file
+	file: "/home/scott/git/LibreHero-Songs/Brad-Sucks/10_-_Brad_Sucks_-_Dirtbag.mp3"
+	md5sum: df28fa4820e7e432d6b234456a7b88e
+}
+}

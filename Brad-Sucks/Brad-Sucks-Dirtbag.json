@@ -7,379 +7,671 @@ songData: {
 		}
 		{
 			pitch: 2
-			time: 0.81269836
+			time: 1.5789568
 		}
 		{
 			pitch: 1
-			time: 1.3699772
+			time: 2.6935146
 		}
 		{
 			pitch: 2
-			time: 1.8808163
+			time: 3.575873
 		}
 		{
 			pitch: 2
-			time: 2.2987754
-		}
-		{
-			pitch: 1
-			time: 3.041814
+			time: 3.993832
 		}
 		{
 			pitch: 2
-			time: 3.8545125
-		}
-		{
-			pitch: 1
-			time: 4.4350114
-		}
-		{
-			pitch: 2
-			time: 4.8994102
-		}
-		{
-			pitch: 2
-			time: 5.3173695
+			time: 4.736871
 		}
 		{
 			pitch: 1
 			time: 6.130068
 		}
 		{
-			pitch: 3
-			time: 6.7802267
+			pitch: 2
+			time: 7.616145
 		}
 		{
 			pitch: 1
-			time: 7.4071655
+			time: 8.777143
 		}
 		{
-			pitch: 3
-			time: 7.8019047
+			pitch: 2
+			time: 9.520181
 		}
 		{
-			pitch: 3
-			time: 8.312743
+			pitch: 2
+			time: 9.98458
+		}
+		{
+			pitch: 2
+			time: 10.774058
 		}
 		{
 			pitch: 1
-			time: 9.079002
+			time: 12.167256
+		}
+		{
+			pitch: 3
+			time: 13.653334
+		}
+		{
+			pitch: 1
+			time: 14.814331
+		}
+		{
+			pitch: 3
+			time: 15.51093
+		}
+		{
+			pitch: 3
+			time: 16.021769
+		}
+		{
+			pitch: 3
+			time: 16.718367
+		}
+		{
+			pitch: 1
+			time: 18.250883
 		}
 		{
 			pitch: 4
-			time: 9.7988205
+			time: 19.690521
 		}
 		{
 			pitch: 1
-			time: 10.30966
+			time: 20.61932
 		}
 		{
 			pitch: 4
-			time: 10.797278
+			time: 21.548117
 		}
 		{
 			pitch: 4
-			time: 11.215238
-		}
-		{
-			pitch: 1
-			time: 12.051156
-		}
-		{
-			pitch: 2
-			time: 12.817415
-		}
-		{
-			pitch: 1
-			time: 13.351474
-		}
-		{
-			pitch: 2
-			time: 13.9319725
-		}
-		{
-			pitch: 2
-			time: 14.303493
-		}
-		{
-			pitch: 1
-			time: 15.116191
-		}
-		{
-			pitch: 2
-			time: 15.812789
-		}
-		{
-			pitch: 1
-			time: 16.439728
-		}
-		{
-			pitch: 2
-			time: 16.857685
-		}
-		{
-			pitch: 2
-			time: 17.41496
-		}
-		{
-			pitch: 1
-			time: 18.065117
-		}
-		{
-			pitch: 3
-			time: 18.715273
-		}
-		{
-			pitch: 1
-			time: 19.318989
-		}
-		{
-			pitch: 3
-			time: 19.853045
-		}
-		{
-			pitch: 3
-			time: 20.271002
-		}
-		{
-			pitch: 1
-			time: 21.083698
+			time: 21.966076
 		}
 		{
 			pitch: 4
-			time: 21.849953
+			time: 22.709116
 		}
 		{
 			pitch: 1
-			time: 22.430449
+			time: 24.334513
+		}
+		{
+			pitch: 2
+			time: 25.82059
+		}
+		{
+			pitch: 1
+			time: 26.935148
+		}
+		{
+			pitch: 2
+			time: 27.585306
+		}
+		{
+			pitch: 2
+			time: 28.235464
+		}
+		{
+			pitch: 2
+			time: 28.746304
+		}
+		{
+			pitch: 1
+			time: 30.278822
+		}
+		{
+			pitch: 2
+			time: 31.625578
+		}
+		{
+			pitch: 1
+			time: 32.833015
+		}
+		{
+			pitch: 2
+			time: 33.66893
+		}
+		{
+			pitch: 2
+			time: 34.086887
+		}
+		{
+			pitch: 2
+			time: 34.78348
+		}
+		{
+			pitch: 1
+			time: 36.269554
 		}
 		{
 			pitch: 4
-			time: 22.918066
+			time: 37.755623
+		}
+		{
+			pitch: 1
+			time: 38.82374
 		}
 		{
 			pitch: 4
-			time: 23.312803
-		}
-
-
-
-
-		{
-			pitch: 2
-			time: 24.589895
-		}
-		{
-			pitch: 1
-			time: 24.682774
-		}
-		{
-			pitch: 2
-			time: 24.914972
-		}
-		{
-			pitch: 1
-			time: 25.07751
-		}
-		{
-			pitch: 2
-			time: 25.28649
-		}
-		{
-			pitch: 2
-			time: 25.47225
-		}
-		{
-			pitch: 1
-			time: 25.681229
-		}
-		{
-			pitch: 2
-			time: 26.006306
-		}
-		{
-			pitch: 3
-			time: 26.192064
-		}
-		{
-			pitch: 1
-			time: 26.540361
+			time: 39.659653
 		}
 		{
 			pitch: 4
-			time: 26.819
-		}
-		{
-			pitch: 3
-			time: 26.958319
-		}
-		{
-			pitch: 3
-			time: 27.538816
-		}
-		{
-			pitch: 2
-			time: 27.747795
-		}
-		{
-			pitch: 1
-			time: 28.096092
-		}
-		{
-			pitch: 2
-			time: 28.25863
-		}
-		{
-			pitch: 3
-			time: 28.44439
-		}
-		{
-			pitch: 1
-			time: 28.630148
-		}
-		{
-			pitch: 3
-			time: 29.001667
-		}
-		{
-			pitch: 2
-			time: 29.164206
-		}
-		{
-			pitch: 1
-			time: 29.512503
-		}
-		{
-			pitch: 3
-			time: 29.744701
-		}
-		{
-			pitch: 1
-			time: 29.95368
+			time: 39.98473
 		}
 		{
 			pitch: 4
-			time: 30.905695
-		}
-		{
-			pitch: 2
-			time: 30.905695
+			time: 40.774204
 		}
 		{
 			pitch: 1
-			time: 31.230772
-		}
-		{
-			pitch: 3
-			time: 31.300432
+			time: 42.306713
 		}
 		{
 			pitch: 4
-			time: 31.46297
-		}
-		{
-			pitch: 2
-			time: 31.48619
+			time: 43.746346
 		}
 		{
 			pitch: 1
-			time: 32.345325
+			time: 44.768017
 		}
 		{
-			pitch: 3
-			time: 32.345325
+			pitch: 4
+			time: 45.60393
+		}
+		{
+			pitch: 4
+			time: 45.97545
+		}
+		{
+			pitch: 4
+			time: 46.811363
 		}
 		{
 			pitch: 2
-			time: 32.577526
+			time: 48.99403
+		}
+		{
+			pitch: 1
+			time: 49.411987
+		}
+		{
+			pitch: 2
+			time: 49.876385
+		}
+		{
+			pitch: 1
+			time: 50.20146
+		}
+		{
+			pitch: 2
+			time: 50.57298
+		}
+		{
+			pitch: 1
+			time: 51.037376
+		}
+		{
+			pitch: 2
+			time: 51.408894
+		}
+		{
+			pitch: 1
+			time: 52.15193
+		}
+		{
+			pitch: 3
+			time: 52.61633
+		}
+		{
+			pitch: 1
+			time: 53.220043
+		}
+		{
+			pitch: 3
+			time: 53.59156
+		}
+		{
+			pitch: 1
+			time: 53.916637
+		}
+		{
+			pitch: 1
+			time: 55.124073
+		}
+		{
+			pitch: 1
+			time: 55.727787
+		}
+		{
+			pitch: 1
+			time: 56.47082
+		}
+		{
+			pitch: 1
+			time: 56.84234
+		}
+		{
+			pitch: 1
+			time: 57.16742
+		}
+		{
+			pitch: 1
+			time: 57.492496
+		}
+		{
+			pitch: 1
+			time: 57.956894
+		}
+		{
+			pitch: 1
+			time: 58.46773
+		}
+		{
+			pitch: 1
+			time: 59.071445
+		}
+		{
+			pitch: 1
+			time: 59.535843
+		}
+		{
+			pitch: 1
+			time: 59.9538
+		}
+		{
+			pitch: 2
+			time: 61.857826
+		}
+		{
+			pitch: 2
+			time: 62.554424
+		}
+		{
+			pitch: 2
+			time: 62.92594
+		}
+		{
+			pitch: 3
+			time: 64.78353
+		}
+		{
+			pitch: 2
+			time: 65.10861
+		}
+		{
+			pitch: 4
+			time: 67.01266
+		}
+		{
+			pitch: 3
+			time: 67.7557
+		}
+		{
+			pitch: 2
+			time: 68.2201
+		}
+		{
+			pitch: 1
+			time: 68.54518
+		}
+		{
+			pitch: 2
+			time: 68.96314
+		}
+		{
+			pitch: 1
+			time: 70.77431
 		}
 		{
 			pitch: 0
-			time: 32.623966
+			time: 71.05295
+		}
+		{
+			pitch: 3
+			time: 73.09631
+		}
+		{
+			pitch: 2
+			time: 73.746475
+		}
+		{
+			pitch: 1
+			time: 74.16444
+		}
+		{
+			pitch: 2
+			time: 74.76816
+		}
+		{
+			pitch: 3
+			time: 74.86104
+		}
+		{
+			pitch: 2
+			time: 75.37188
+		}
+		{
+			pitch: 3
+			time: 76.11492
 		}
 		{
 			pitch: 4
-			time: 33.43667
-		}
-		{
-			pitch: 2
-			time: 33.45989
-		}
-		{
-			pitch: 1
-			time: 33.80819
+			time: 76.6722
 		}
 		{
 			pitch: 3
-			time: 33.80819
-		}
-		{
-			pitch: 2
-			time: 34.13327
-		}
-		{
-			pitch: 0
-			time: 34.20293
-		}
-		{
-			pitch: 1
-			time: 34.36547
-		}
-		{
-			pitch: 0
-			time: 34.55123
-		}
-		{
-			pitch: 2
-			time: 34.55123
-		}
-		{
-			pitch: 0
-			time: 34.64411
-		}
-		{
-			pitch: 1
-			time: 35.317493
-		}
-		{
-			pitch: 0
-			time: 35.503254
-		}
-		{
-			pitch: 2
-			time: 36.478497
+			time: 77.322365
 		}
 		{
 			pitch: 4
-			time: 36.478497
-		}
-		{
-			pitch: 1
-			time: 36.641037
+			time: 77.647446
 		}
 		{
 			pitch: 3
-			time: 36.896458
-		}
-		{
-			pitch: 2
-			time: 37.10544
-		}
-		{
-			pitch: 1
-			time: 37.26798
+			time: 77.92609
 		}
 		{
 			pitch: 3
-			time: 37.43052
+			time: 79.04065
 		}
 		{
-			pitch: 1
-			time: 37.61628
+			pitch: 3
+			time: 79.50505
 		}
 		{
 			pitch: 2
-			time: 37.73238
+			time: 80.29453
+		}
+		{
+			pitch: 2
+			time: 80.61961
+		}
+		{
+			pitch: 2
+			time: 81.037575
+		}
+		{
+			pitch: 2
+			time: 81.409096
+		}
+		{
+			pitch: 3
+			time: 82.1057
+		}
+		{
+			pitch: 4
+			time: 82.43078
+		}
+		{
+			pitch: 2
+			time: 83.08094
+		}
+		{
+			pitch: 3
+			time: 83.4989
+		}
+		{
+			pitch: 1
+			time: 83.91686
+		}
+		{
+			pitch: 2
+			time: 86.05311
+		}
+		{
+			pitch: 4
+			time: 86.05311
+		}
+		{
+			pitch: 3
+			time: 86.74971
+		}
+		{
+			pitch: 1
+			time: 86.74971
+		}
+		{
+			pitch: 1
+			time: 87.21411
+		}
+		{
+			pitch: 3
+			time: 87.21411
+		}
+		{
+			pitch: 0
+			time: 88.839516
+		}
+		{
+			pitch: 2
+			time: 88.885956
+		}
+		{
+			pitch: 4
+			time: 91.11508
+		}
+		{
+			pitch: 2
+			time: 91.11508
+		}
+		{
+			pitch: 1
+			time: 91.81168
+		}
+		{
+			pitch: 3
+			time: 91.81168
+		}
+		{
+			pitch: 0
+			time: 92.554726
+		}
+		{
+			pitch: 2
+			time: 92.601166
+		}
+		{
+			pitch: 1
+			time: 93.29777
+		}
+		{
+			pitch: 3
+			time: 93.29777
+		}
+		{
+			pitch: 2
+			time: 93.34421
+		}
+		{
+			pitch: 0
+			time: 94.83029
+		}
+		{
+			pitch: 2
+			time: 94.87673
+		}
+		{
+			pitch: 0
+			time: 95.666214
+		}
+		{
+			pitch: 2
+			time: 95.666214
+		}
+		{
+			pitch: 0
+			time: 96.362816
+		}
+		{
+			pitch: 2
+			time: 96.362816
+		}
+		{
+			pitch: 0
+			time: 97.8489
+		}
+		{
+			pitch: 2
+			time: 97.8489
+		}
+		{
+			pitch: 1
+			time: 98.5455
+		}
+		{
+			pitch: 3
+			time: 98.5455
+		}
+		{
+			pitch: 2
+			time: 99.334984
+		}
+		{
+			pitch: 4
+			time: 99.334984
+		}
+		{
+			pitch: 1
+			time: 100.031586
+		}
+		{
+			pitch: 3
+			time: 100.031586
+		}
+		{
+			pitch: 1
+			time: 100.72819
+		}
+		{
+			pitch: 3
+			time: 100.72819
+		}
+		{
+			pitch: 1
+			time: 101.51767
+		}
+		{
+			pitch: 3
+			time: 101.56411
+		}
+		{
+			pitch: 0
+			time: 102.26071
+		}
+		{
+			pitch: 2
+			time: 102.40003
+		}
+		{
+			pitch: 1
+			time: 103.05019
+		}
+		{
+			pitch: 3
+			time: 103.05019
+		}
+		{
+			pitch: 2
+			time: 103.793236
+		}
+		{
+			pitch: 4
+			time: 103.793236
+		}
+		{
+			pitch: 1
+			time: 104.48984
+		}
+		{
+			pitch: 3
+			time: 104.48984
+		}
+		{
+			pitch: 0
+			time: 106.0688
+		}
+		{
+			pitch: 2
+			time: 106.11524
+		}
+		{
+			pitch: 0
+			time: 106.858284
+		}
+		{
+			pitch: 2
+			time: 106.951164
+		}
+		{
+			pitch: 0
+			time: 107.508446
+		}
+		{
+			pitch: 2
+			time: 107.601326
+		}
+		{
+			pitch: 1
+			time: 108.34437
+		}
+		{
+			pitch: 3
+			time: 108.34437
+		}
+		{
+			pitch: 0
+			time: 109.69113
+		}
+		{
+			pitch: 2
+			time: 109.73757
+		}
+		{
+			pitch: 2
+			time: 111.40942
+		}
+		{
+			pitch: 4
+			time: 111.40942
+		}
+		{
+			pitch: 0
+			time: 112.05958
+		}
+		{
+			pitch: 2
+			time: 112.10602
+		}
+		{
+			pitch: 4
+			time: 112.8955
+		}
+		{
+			pitch: 2
+			time: 112.8955
+		}
+		{
+			pitch: 1
+			time: 113.63854
+		}
+		{
+			pitch: 3
+			time: 113.68498
+		}
+		{
+			pitch: 0
+			time: 115.124626
+		}
+		{
+			pitch: 2
+			time: 115.124626
 		}
 ]
 	bars: []
@@ -390,7 +682,7 @@ songData: {
 		f
 		g
 	]
-	tempo: 60
+	tempo: 120
 }
 startTime: 0
 duration: 249

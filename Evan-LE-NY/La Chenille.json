@@ -4,67 +4,67 @@
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 15.834075
+			"time": 15.928889
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 16.355556
+			"time": 16.260742
 		},
 		{
 			"pitch": 2,
 			"points": 10,
-			"time": 16.82963
+			"time": 16.924444
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 17.303703
+			"time": 17.398518
 		},
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 17.825184
+			"time": 17.967407
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 18.29926
+			"time": 18.251852
 		},
 		{
 			"pitch": 2,
 			"points": 10,
-			"time": 18.773333
+			"time": 18.583702
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 19.294815
+			"time": 19.247408
 		},
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 19.721481
+			"time": 19.626667
 		},
 		{
 			"pitch": 2,
 			"points": 10,
-			"time": 20.290369
+			"time": 20.195557
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 20.622223
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 21.096298
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 20.764444
-		},
-		{
-			"pitch": 4,
-			"points": 10,
-			"time": 21.285927
-		},
-		{
-			"pitch": 3,
-			"points": 10,
-			"time": 21.617777
+			"time": 21.522964
 		},
 		{
 			"pitch": 2,
@@ -74,7 +74,7 @@
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 22.660742
+			"time": 22.565926
 		},
 		{
 			"pitch": 2,
@@ -84,7 +84,7 @@
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 23.656298
+			"time": 23.561483
 		},
 		{
 			"pitch": 3,
@@ -94,112 +94,117 @@
 		{
 			"pitch": 2,
 			"points": 10,
-			"time": 24.604445
+			"time": 24.462223
 		},
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 25.07852
-		},
-		{
-			"pitch": 2,
-			"points": 10,
-			"time": 25.64741
+			"time": 25.173334
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 26.026667
+			"time": 25.505186
 		},
 		{
-			"pitch": 2,
+			"pitch": 4,
+			"points": 10,
+			"time": 26.121483
+		},
+		{
+			"pitch": 3,
 			"points": 10,
 			"time": 26.54815
 		},
 		{
-			"pitch": 1,
+			"pitch": 2,
 			"points": 10,
-			"time": 27.069632
+			"time": 27.022224
 		},
 		{
 			"pitch": 0,
 			"points": 10,
-			"time": 27.543703
-		},
-		{
-			"pitch": 2,
-			"points": 10,
-			"time": 28.91852
+			"time": 27.591112
 		},
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 29.392593
+			"time": 28.965927
 		},
 		{
 			"pitch": 2,
 			"points": 10,
-			"time": 29.866669
-		},
-		{
-			"pitch": 1,
-			"points": 10,
-			"time": 30.38815
-		},
-		{
-			"pitch": 2,
-			"points": 10,
-			"time": 30.862225
-		},
-		{
-			"pitch": 1,
-			"points": 10,
-			"time": 31.336298
-		},
-		{
-			"pitch": 4,
-			"points": 10,
-			"time": 31.810371
+			"time": 29.629631
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 32.284447
+			"time": 29.961483
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 30.482965
 		},
 		{
 			"pitch": 4,
 			"points": 10,
-			"time": 32.805927
+			"time": 30.957037
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 31.28889
 		},
 		{
 			"pitch": 4,
 			"points": 10,
-			"time": 33.896294
+			"time": 31.715557
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 34.32296
+			"time": 32.237038
 		},
 		{
 			"pitch": 4,
 			"points": 10,
-			"time": 34.702217
+			"time": 32.711113
 		},
 		{
-			"pitch": 1,
+			"pitch": 0,
 			"points": 10,
-			"time": 35.17629
+			"time": 33.090374
 		},
 		{
 			"pitch": 4,
 			"points": 10,
-			"time": 35.69777
+			"time": 33.611855
 		},
 		{
-			"pitch": 1,
+			"pitch": 3,
 			"points": 10,
-			"time": 36.31406
+			"time": 34.133327
+		},
+		{
+			"pitch": 4,
+			"points": 10,
+			"time": 34.607403
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 35.081474
+		},
+		{
+			"pitch": 4,
+			"points": 10,
+			"time": 35.792583
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 36.36147
 		},
 		{
 			"pitch": 4,
@@ -209,7 +214,7 @@
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 37.214798
+			"time": 37.16739
 		},
 		{
 			"pitch": 2,
@@ -219,42 +224,42 @@
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 38.21035
+			"time": 38.02072
 		},
 		{
 			"pitch": 0,
 			"points": 10,
-			"time": 38.68442
+			"time": 38.494793
 		},
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 39.158497
+			"time": 38.921455
 		},
 		{
 			"pitch": 2,
 			"points": 10,
-			"time": 39.58516
+			"time": 39.67997
 		},
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 40.05923
+			"time": 40.24886
 		},
 		{
 			"pitch": 0,
 			"points": 10,
-			"time": 40.533302
+			"time": 40.67552
 		},
 		{
 			"pitch": 1,
 			"points": 10,
-			"time": 41.05478
+			"time": 41.10219
 		},
 		{
 			"pitch": 2,
 			"points": 10,
-			"time": 41.62367
+			"time": 41.434036
 		},
 		{
 			"pitch": 1,
@@ -264,22 +269,97 @@
 		{
 			"pitch": 0,
 			"points": 10,
-			"time": 42.57181
-		},
-		{
-			"pitch": 4,
-			"points": 10,
-			"time": 43.140697
+			"time": 42.476997
 		},
 		{
 			"pitch": 3,
 			"points": 10,
-			"time": 44.468098
+			"time": 42.95107
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 44.894764
+		},
+		{
+			"pitch": 3,
+			"points": 10,
+			"time": 47.075497
 		},
 		{
 			"pitch": 2,
 			"points": 10,
-			"time": 45.1318
+			"time": 47.407345
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 47.83401
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 48.49771
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 48.829563
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 49.351044
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 49.777706
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 50.299187
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 50.773254
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 51.342144
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 51.673992
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 52.3851
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 52.859177
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 53.28584
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 53.759907
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 54.328796
 		}
 	],
 	"bars": [],

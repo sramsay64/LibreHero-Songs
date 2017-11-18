@@ -2,264 +2,284 @@
 "songData": {
 	"notes": [
 		{
-			"pitch": 2,
-			"time": 8.79829
-		},
-		{
-			"pitch": 2,
-			"time": 10.104959
-		},
-		{
-			"pitch": 2,
-			"time": 12.195653
-		},
-		{
-			"pitch": 2,
-			"time": 13.589451
-		},
-		{
-			"pitch": 2,
-			"time": 16.33348
-		},
-		{
-			"pitch": 2,
-			"time": 17.770842
-		},
-		{
-			"pitch": 2,
-			"time": 20.166445
-		},
-		{
-			"pitch": 2,
-			"time": 21.734455
-		},
-		{
-			"pitch": 2,
-			"time": 24.086494
-		},
-		{
-			"pitch": 2,
-			"time": 25.567373
-		},
-		{
-			"pitch": 2,
-			"time": 28.22432
-		},
-		{
-			"pitch": 2,
-			"time": 29.661682
+			"pitch": 1,
+			"points": 10,
+			"time": 15.834075
 		},
 		{
 			"pitch": 3,
-			"time": 32.100803
+			"points": 10,
+			"time": 16.355556
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 16.82963
 		},
 		{
 			"pitch": 3,
-			"time": 33.538162
+			"points": 10,
+			"time": 17.303703
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 17.825184
 		},
 		{
 			"pitch": 3,
-			"time": 36.0644
+			"points": 10,
+			"time": 18.29926
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 18.773333
 		},
 		{
 			"pitch": 3,
-			"time": 37.50176
+			"points": 10,
+			"time": 19.294815
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 19.721481
 		},
 		{
 			"pitch": 2,
-			"time": 40.028
-		},
-		{
-			"pitch": 2,
-			"time": 41.683132
-		},
-		{
-			"pitch": 2,
-			"time": 44.078728
-		},
-		{
-			"pitch": 2,
-			"time": 45.64673
-		},
-		{
-			"pitch": 2,
-			"time": 48.17297
-		},
-		{
-			"pitch": 2,
-			"time": 49.61033
-		},
-		{
-			"pitch": 2,
-			"time": 52.180134
-		},
-		{
-			"pitch": 2,
-			"time": 53.661053
-		},
-		{
-			"pitch": 2,
-			"time": 56.013035
-		},
-		{
-			"pitch": 2,
-			"time": 57.624603
-		},
-		{
-			"pitch": 2,
-			"time": 60.107327
-		},
-		{
-			"pitch": 2,
-			"time": 61.54468
+			"points": 10,
+			"time": 20.290369
 		},
 		{
 			"pitch": 3,
-			"time": 64.02736
-		},
-		{
-			"pitch": 2,
-			"time": 67.598976
-		},
-		{
-			"pitch": 3,
-			"time": 72.172386
-		},
-		{
-			"pitch": 2,
-			"time": 75.61332
-		},
-		{
-			"pitch": 3,
-			"time": 80.23029
-		},
-		{
-			"pitch": 3,
-			"time": 81.275665
-		},
-		{
-			"pitch": 3,
-			"time": 82.23391
-		},
-		{
-			"pitch": 3,
-			"time": 83.1486
-		},
-		{
-			"pitch": 2,
-			"time": 84.10679
-		},
-		{
-			"pitch": 2,
-			"time": 85.15216
-		},
-		{
-			"pitch": 3,
-			"time": 86.06685
-		},
-		{
-			"pitch": 2,
-			"time": 87.15574
-		},
-		{
-			"pitch": 3,
-			"time": 87.63486
+			"points": 10,
+			"time": 20.764444
 		},
 		{
 			"pitch": 4,
-			"time": 88.15755
+			"points": 10,
+			"time": 21.285927
 		},
 		{
 			"pitch": 3,
-			"time": 89.1158
-		},
-		{
-			"pitch": 3,
-			"time": 94.08124
-		},
-		{
-			"pitch": 3,
-			"time": 95.03944
+			"points": 10,
+			"time": 21.617777
 		},
 		{
 			"pitch": 2,
-			"time": 95.60569
+			"points": 10,
+			"time": 22.186666
 		},
 		{
 			"pitch": 3,
-			"time": 95.99768
+			"points": 10,
+			"time": 22.660742
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 23.087408
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 23.656298
 		},
 		{
 			"pitch": 3,
-			"time": 96.563934
+			"points": 10,
+			"time": 24.082964
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 24.604445
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 25.07852
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 25.64741
+		},
+		{
+			"pitch": 3,
+			"points": 10,
+			"time": 26.026667
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 26.54815
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 27.069632
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 27.543703
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 28.91852
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 29.392593
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 29.866669
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 30.38815
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 30.862225
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 31.336298
 		},
 		{
 			"pitch": 4,
-			"time": 97.13014
+			"points": 10,
+			"time": 31.810371
 		},
 		{
 			"pitch": 3,
-			"time": 98.044815
+			"points": 10,
+			"time": 32.284447
 		},
 		{
-			"pitch": 1,
-			"time": 103.01026
+			"pitch": 4,
+			"points": 10,
+			"time": 32.805927
 		},
 		{
-			"pitch": 2,
-			"time": 103.57651
+			"pitch": 4,
+			"points": 10,
+			"time": 33.896294
 		},
 		{
 			"pitch": 3,
-			"time": 104.09915
+			"points": 10,
+			"time": 34.32296
 		},
 		{
-			"pitch": 2,
-			"time": 104.970314
-		},
-		{
-			"pitch": 2,
-			"time": 106.14633
-		},
-		{
-			"pitch": 2,
-			"time": 107.19167
+			"pitch": 4,
+			"points": 10,
+			"time": 34.702217
 		},
 		{
 			"pitch": 1,
-			"time": 108.5419
+			"points": 10,
+			"time": 35.17629
+		},
+		{
+			"pitch": 4,
+			"points": 10,
+			"time": 35.69777
 		},
 		{
 			"pitch": 1,
-			"time": 111.02465
+			"points": 10,
+			"time": 36.31406
+		},
+		{
+			"pitch": 4,
+			"points": 10,
+			"time": 36.78813
+		},
+		{
+			"pitch": 3,
+			"points": 10,
+			"time": 37.214798
 		},
 		{
 			"pitch": 2,
-			"time": 111.59085
+			"points": 10,
+			"time": 37.68887
 		},
 		{
 			"pitch": 1,
-			"time": 112.28775
+			"points": 10,
+			"time": 38.21035
 		},
 		{
 			"pitch": 0,
-			"time": 113.02822
+			"points": 10,
+			"time": 38.68442
 		},
 		{
 			"pitch": 1,
-			"time": 115.598045
+			"points": 10,
+			"time": 39.158497
 		},
 		{
 			"pitch": 2,
-			"time": 116.25139
+			"points": 10,
+			"time": 39.58516
 		},
 		{
 			"pitch": 1,
-			"time": 116.730515
+			"points": 10,
+			"time": 40.05923
 		},
 		{
 			"pitch": 0,
-			"time": 117.68876
+			"points": 10,
+			"time": 40.533302
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 41.05478
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 41.62367
+		},
+		{
+			"pitch": 1,
+			"points": 10,
+			"time": 42.14515
+		},
+		{
+			"pitch": 0,
+			"points": 10,
+			"time": 42.57181
+		},
+		{
+			"pitch": 4,
+			"points": 10,
+			"time": 43.140697
+		},
+		{
+			"pitch": 3,
+			"points": 10,
+			"time": 44.468098
+		},
+		{
+			"pitch": 2,
+			"points": 10,
+			"time": 45.1318
 		}
 	],
 	"bars": [],
@@ -270,7 +290,8 @@
 		"f",
 		"g"
 	],
-	"tempo": 122.5
+	"tempo": 122.5,
+	"falseHitPoints": -10
 },
 "startTime": 0,
 "duration": 249,

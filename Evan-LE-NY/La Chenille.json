@@ -1,288 +1,288 @@
 {
-songData: {
-	notes: [
-		{
-			pitch: 2
-			time: 8.79829
-		}
-		{
-			pitch: 2
-			time: 10.104959
-		}
-		{
-			pitch: 2
-			time: 12.195653
-		}
-		{
-			pitch: 2
-			time: 13.589451
-		}
-		{
-			pitch: 2
-			time: 16.33348
-		}
-		{
-			pitch: 2
-			time: 17.770842
-		}
-		{
-			pitch: 2
-			time: 20.166445
-		}
-		{
-			pitch: 2
-			time: 21.734455
-		}
-		{
-			pitch: 2
-			time: 24.086494
-		}
-		{
-			pitch: 2
-			time: 25.567373
-		}
-		{
-			pitch: 2
-			time: 28.22432
-		}
-		{
-			pitch: 2
-			time: 29.661682
-		}
-		{
-			pitch: 3
-			time: 32.100803
-		}
-		{
-			pitch: 3
-			time: 33.538162
-		}
-		{
-			pitch: 3
-			time: 36.0644
-		}
-		{
-			pitch: 3
-			time: 37.50176
-		}
-		{
-			pitch: 2
-			time: 40.028
-		}
-		{
-			pitch: 2
-			time: 41.683132
-		}
-		{
-			pitch: 2
-			time: 44.078728
-		}
-		{
-			pitch: 2
-			time: 45.64673
-		}
-		{
-			pitch: 2
-			time: 48.17297
-		}
-		{
-			pitch: 2
-			time: 49.61033
-		}
-		{
-			pitch: 2
-			time: 52.180134
-		}
-		{
-			pitch: 2
-			time: 53.661053
-		}
-		{
-			pitch: 2
-			time: 56.013035
-		}
-		{
-			pitch: 2
-			time: 57.624603
-		}
-		{
-			pitch: 2
-			time: 60.107327
-		}
-		{
-			pitch: 2
-			time: 61.54468
-		}
-		{
-			pitch: 3
-			time: 64.02736
-		}
-		{
-			pitch: 2
-			time: 67.598976
-		}
-		{
-			pitch: 3
-			time: 72.172386
-		}
-		{
-			pitch: 2
-			time: 75.61332
-		}
-		{
-			pitch: 3
-			time: 80.23029
-		}
-		{
-			pitch: 3
-			time: 81.275665
-		}
-		{
-			pitch: 3
-			time: 82.23391
-		}
-		{
-			pitch: 3
-			time: 83.1486
-		}
-		{
-			pitch: 2
-			time: 84.10679
-		}
-		{
-			pitch: 2
-			time: 85.15216
-		}
-		{
-			pitch: 3
-			time: 86.06685
-		}
-		{
-			pitch: 2
-			time: 87.15574
-		}
-		{
-			pitch: 3
-			time: 87.63486
-		}
-		{
-			pitch: 4
-			time: 88.15755
-		}
-		{
-			pitch: 3
-			time: 89.1158
-		}
-		{
-			pitch: 3
-			time: 94.08124
-		}
-		{
-			pitch: 3
-			time: 95.03944
-		}
-		{
-			pitch: 2
-			time: 95.60569
-		}
-		{
-			pitch: 3
-			time: 95.99768
-		}
-		{
-			pitch: 3
-			time: 96.563934
-		}
-		{
-			pitch: 4
-			time: 97.13014
-		}
-		{
-			pitch: 3
-			time: 98.044815
-		}
-		{
-			pitch: 1
-			time: 103.01026
-		}
-		{
-			pitch: 2
-			time: 103.57651
-		}
-		{
-			pitch: 3
-			time: 104.09915
-		}
-		{
-			pitch: 2
-			time: 104.970314
-		}
-		{
-			pitch: 2
-			time: 106.14633
-		}
-		{
-			pitch: 2
-			time: 107.19167
-		}
-		{
-			pitch: 1
-			time: 108.5419
-		}
-		{
-			pitch: 1
-			time: 111.02465
-		}
-		{
-			pitch: 2
-			time: 111.59085
-		}
-		{
-			pitch: 1
-			time: 112.28775
-		}
-		{
-			pitch: 0
-			time: 113.02822
-		}
-		{
-			pitch: 1
-			time: 115.598045
-		}
-		{
-			pitch: 2
-			time: 116.25139
-		}
-		{
-			pitch: 1
-			time: 116.730515
-		}
+"songData": {
+	"notes": [
+		{
+			"pitch": 2,
+			"time": 8.79829
+		},
+		{
+			"pitch": 2,
+			"time": 10.104959
+		},
+		{
+			"pitch": 2,
+			"time": 12.195653
+		},
+		{
+			"pitch": 2,
+			"time": 13.589451
+		},
+		{
+			"pitch": 2,
+			"time": 16.33348
+		},
+		{
+			"pitch": 2,
+			"time": 17.770842
+		},
+		{
+			"pitch": 2,
+			"time": 20.166445
+		},
+		{
+			"pitch": 2,
+			"time": 21.734455
+		},
+		{
+			"pitch": 2,
+			"time": 24.086494
+		},
+		{
+			"pitch": 2,
+			"time": 25.567373
+		},
+		{
+			"pitch": 2,
+			"time": 28.22432
+		},
+		{
+			"pitch": 2,
+			"time": 29.661682
+		},
+		{
+			"pitch": 3,
+			"time": 32.100803
+		},
+		{
+			"pitch": 3,
+			"time": 33.538162
+		},
+		{
+			"pitch": 3,
+			"time": 36.0644
+		},
+		{
+			"pitch": 3,
+			"time": 37.50176
+		},
+		{
+			"pitch": 2,
+			"time": 40.028
+		},
+		{
+			"pitch": 2,
+			"time": 41.683132
+		},
+		{
+			"pitch": 2,
+			"time": 44.078728
+		},
+		{
+			"pitch": 2,
+			"time": 45.64673
+		},
+		{
+			"pitch": 2,
+			"time": 48.17297
+		},
+		{
+			"pitch": 2,
+			"time": 49.61033
+		},
+		{
+			"pitch": 2,
+			"time": 52.180134
+		},
+		{
+			"pitch": 2,
+			"time": 53.661053
+		},
+		{
+			"pitch": 2,
+			"time": 56.013035
+		},
+		{
+			"pitch": 2,
+			"time": 57.624603
+		},
+		{
+			"pitch": 2,
+			"time": 60.107327
+		},
+		{
+			"pitch": 2,
+			"time": 61.54468
+		},
+		{
+			"pitch": 3,
+			"time": 64.02736
+		},
+		{
+			"pitch": 2,
+			"time": 67.598976
+		},
+		{
+			"pitch": 3,
+			"time": 72.172386
+		},
+		{
+			"pitch": 2,
+			"time": 75.61332
+		},
+		{
+			"pitch": 3,
+			"time": 80.23029
+		},
+		{
+			"pitch": 3,
+			"time": 81.275665
+		},
+		{
+			"pitch": 3,
+			"time": 82.23391
+		},
+		{
+			"pitch": 3,
+			"time": 83.1486
+		},
+		{
+			"pitch": 2,
+			"time": 84.10679
+		},
+		{
+			"pitch": 2,
+			"time": 85.15216
+		},
+		{
+			"pitch": 3,
+			"time": 86.06685
+		},
+		{
+			"pitch": 2,
+			"time": 87.15574
+		},
 		{
-			pitch: 0
-			time: 117.68876
-		}
-	]
-	bars: []
-	keys: [
-		a
-		s
-		d
-		f
-		g
-	]
-	tempo: 122.5
+			"pitch": 3,
+			"time": 87.63486
+		},
+		{
+			"pitch": 4,
+			"time": 88.15755
+		},
+		{
+			"pitch": 3,
+			"time": 89.1158
+		},
+		{
+			"pitch": 3,
+			"time": 94.08124
+		},
+		{
+			"pitch": 3,
+			"time": 95.03944
+		},
+		{
+			"pitch": 2,
+			"time": 95.60569
+		},
+		{
+			"pitch": 3,
+			"time": 95.99768
+		},
+		{
+			"pitch": 3,
+			"time": 96.563934
+		},
+		{
+			"pitch": 4,
+			"time": 97.13014
+		},
+		{
+			"pitch": 3,
+			"time": 98.044815
+		},
+		{
+			"pitch": 1,
+			"time": 103.01026
+		},
+		{
+			"pitch": 2,
+			"time": 103.57651
+		},
+		{
+			"pitch": 3,
+			"time": 104.09915
+		},
+		{
+			"pitch": 2,
+			"time": 104.970314
+		},
+		{
+			"pitch": 2,
+			"time": 106.14633
+		},
+		{
+			"pitch": 2,
+			"time": 107.19167
+		},
+		{
+			"pitch": 1,
+			"time": 108.5419
+		},
+		{
+			"pitch": 1,
+			"time": 111.02465
+		},
+		{
+			"pitch": 2,
+			"time": 111.59085
+		},
+		{
+			"pitch": 1,
+			"time": 112.28775
+		},
+		{
+			"pitch": 0,
+			"time": 113.02822
+		},
+		{
+			"pitch": 1,
+			"time": 115.598045
+		},
+		{
+			"pitch": 2,
+			"time": 116.25139
+		},
+		{
+			"pitch": 1,
+			"time": 116.730515
+		},
+		{
+			"pitch": 0,
+			"time": 117.68876
+		}
+	],
+	"bars": [],
+	"keys": [
+		"a",
+		"s",
+		"d",
+		"f",
+		"g"
+	],
+	"tempo": 122.5
+},
+"startTime": 0,
+"duration": 249,
+"audioData": {
+	"method": "file",
+	"file": "/home/scott/git/LibreHero-Songs/Evan-LE-NY/La Chenille.mp3",
+	"md5sum": "4a5f40065f024c1b48b0c828f2817fb2"
+},
+"audioData_2": {
+	"method": "url",
+	"url": "https://mp3l.jamendo.com/?trackid=22232&format=mp31",
+	"url_2": "http://localhost:8000/LaChenille.mp3",
+	"md5sum": "4a5f40065f024c1b48b0c828f2817fb2"
 }
-startTime: 0
-duration: 249
-audioData: {
-	method: file
-	file: "/home/scott/git/LibreHero-Songs/Evan-LE-NY/La Chenille.mp3"
-	md5sum: 4a5f40065f024c1b48b0c828f2817fb2
-}
-//audioData: {
-	//method: url
-	//url: "https://mp3l.jamendo.com/?trackid=22232&format=mp31"
-	//url: "http://localhost:8000/LaChenille.mp3"
-	//md5sum: 4a5f40065f024c1b48b0c828f2817fb2
-//}
 }
